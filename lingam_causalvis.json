@@ -1,0 +1,521 @@
+{
+    "nodes": [
+        {
+            "x": 56.99999952316284,
+            "y": 42,
+            "id": 1722334039528,
+            "name": "failures",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 47,
+            "y": 410,
+            "id": 1722334051993,
+            "name": "higher",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 198,
+            "y": 94,
+            "id": 1722334074137,
+            "name": "health",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 293,
+            "y": 154,
+            "id": 1722334086085,
+            "name": "famrel",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 288,
+            "y": 365,
+            "id": 1722334102230,
+            "name": "absences",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 423.9999997019768,
+            "y": 35,
+            "id": 1722334129327,
+            "name": "studytime",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 590,
+            "y": 151,
+            "id": 1722334138711,
+            "name": "Pstatus",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 708,
+            "y": 128,
+            "id": 1722334154678,
+            "name": "famsup",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 794,
+            "y": 224,
+            "id": 1722334164943,
+            "name": "internet",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 904,
+            "y": 256,
+            "id": 1722334175586,
+            "name": "paid",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 750,
+            "y": 408,
+            "id": 1722334213545,
+            "name": "Medu",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 416,
+            "y": 413,
+            "id": 1722334447594,
+            "name": "G_avg",
+            "$custom": true,
+            "tags": []
+        },
+        {
+            "x": 884.9999923706055,
+            "y": 52,
+            "id": 1722334463517,
+            "name": "schoolsup",
+            "$custom": true,
+            "tags": []
+        }
+    ],
+    "links": [
+        {
+            "source": {
+                "x": 56.99999952316284,
+                "y": 42,
+                "id": 1722334039528,
+                "name": "failures",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 416,
+                "y": 413,
+                "id": 1722334447594,
+                "name": "G_avg",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 56.99999952316284,
+                "y": 42,
+                "id": 1722334039528,
+                "name": "failures",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 47,
+                "y": 410,
+                "id": 1722334051993,
+                "name": "higher",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 47,
+                "y": 410,
+                "id": 1722334051993,
+                "name": "higher",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 288,
+                "y": 365,
+                "id": 1722334102230,
+                "name": "absences",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 56.99999952316284,
+                "y": 42,
+                "id": 1722334039528,
+                "name": "failures",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 288,
+                "y": 365,
+                "id": 1722334102230,
+                "name": "absences",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 423.9999997019768,
+                "y": 35,
+                "id": 1722334129327,
+                "name": "studytime",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 47,
+                "y": 410,
+                "id": 1722334051993,
+                "name": "higher",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 198,
+                "y": 94,
+                "id": 1722334074137,
+                "name": "health",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 293,
+                "y": 154,
+                "id": 1722334086085,
+                "name": "famrel",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 293,
+                "y": 154,
+                "id": 1722334086085,
+                "name": "famrel",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 288,
+                "y": 365,
+                "id": 1722334102230,
+                "name": "absences",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 884.9999923706055,
+                "y": 52,
+                "id": 1722334463517,
+                "name": "schoolsup",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 423.9999997019768,
+                "y": 35,
+                "id": 1722334129327,
+                "name": "studytime",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 884.9999923706055,
+                "y": 52,
+                "id": 1722334463517,
+                "name": "schoolsup",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 416,
+                "y": 413,
+                "id": 1722334447594,
+                "name": "G_avg",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 47,
+                "y": 410,
+                "id": 1722334051993,
+                "name": "higher",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 416,
+                "y": 413,
+                "id": 1722334447594,
+                "name": "G_avg",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 56.99999952316284,
+                "y": 42,
+                "id": 1722334039528,
+                "name": "failures",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 423.9999997019768,
+                "y": 35,
+                "id": 1722334129327,
+                "name": "studytime",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 423.9999997019768,
+                "y": 35,
+                "id": 1722334129327,
+                "name": "studytime",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 708,
+                "y": 128,
+                "id": 1722334154678,
+                "name": "famsup",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 794,
+                "y": 224,
+                "id": 1722334164943,
+                "name": "internet",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 288,
+                "y": 365,
+                "id": 1722334102230,
+                "name": "absences",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 794,
+                "y": 224,
+                "id": 1722334164943,
+                "name": "internet",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 750,
+                "y": 408,
+                "id": 1722334213545,
+                "name": "Medu",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 904,
+                "y": 256,
+                "id": 1722334175586,
+                "name": "paid",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 750,
+                "y": 408,
+                "id": 1722334213545,
+                "name": "Medu",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 423.9999997019768,
+                "y": 35,
+                "id": 1722334129327,
+                "name": "studytime",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 750,
+                "y": 408,
+                "id": 1722334213545,
+                "name": "Medu",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 423.9999997019768,
+                "y": 35,
+                "id": 1722334129327,
+                "name": "studytime",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 288,
+                "y": 365,
+                "id": 1722334102230,
+                "name": "absences",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 708,
+                "y": 128,
+                "id": 1722334154678,
+                "name": "famsup",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 750,
+                "y": 408,
+                "id": 1722334213545,
+                "name": "Medu",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 590,
+                "y": 151,
+                "id": 1722334138711,
+                "name": "Pstatus",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 288,
+                "y": 365,
+                "id": 1722334102230,
+                "name": "absences",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 590,
+                "y": 151,
+                "id": 1722334138711,
+                "name": "Pstatus",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 750,
+                "y": 408,
+                "id": 1722334213545,
+                "name": "Medu",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 423.9999997019768,
+                "y": 35,
+                "id": 1722334129327,
+                "name": "studytime",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 416,
+                "y": 413,
+                "id": 1722334447594,
+                "name": "G_avg",
+                "$custom": true,
+                "tags": []
+            }
+        },
+        {
+            "source": {
+                "x": 750,
+                "y": 408,
+                "id": 1722334213545,
+                "name": "Medu",
+                "$custom": true,
+                "tags": []
+            },
+            "target": {
+                "x": 416,
+                "y": 413,
+                "id": 1722334447594,
+                "name": "G_avg",
+                "$custom": true,
+                "tags": []
+            }
+        }
+    ],
+    "treatment": "absences",
+    "outcome": "G_avg",
+    "confounds": [
+        "failures",
+        "higher",
+        "studytime",
+        "Pstatus",
+        "internet",
+        "schoolsup"
+    ],
+    "mediators": [],
+    "colliders": [],
+    "prognostics": [
+        "Medu"
+    ]
+}
